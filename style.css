@@ -371,6 +371,9 @@ footer .column > a:hover{
     .nav-links{
         display: none;
     }
+    .header{
+        grid-template-columns: 1fr;
+    }
 }
 
 
