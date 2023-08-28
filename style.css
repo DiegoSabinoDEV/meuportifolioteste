@@ -371,17 +371,12 @@ footer .column > a:hover{
     .nav-links{
         display: none;
     }
-    .header{
-        grid-template-columns: 1fr;
+    header{
+        grid-template-columns: 1fr 1fr;
     }
+    header .image{
+       grid-area: 1 / 1 / 2 / 2;
 }
-
-
-
-
-
- 
-
 
 
 
